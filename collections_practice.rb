@@ -12,7 +12,7 @@ end
 
 def sort_array_char_count(array)
   array.sort do |a, b|
-    a.length <=> b.length       #you are comparing two                                  elements by their length                             and alphabetical order. 
+    a.length <=> b.length       #you are comparing two                                                     elements by their length and alphabetical order. 
   end   
 end  
 
